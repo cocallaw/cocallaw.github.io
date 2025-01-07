@@ -20,7 +20,7 @@ The steps outlined below require that you have access to the Azure Subscriptions
 > This process to create a custom image is for an existing Windows based CVM using with Confidential OS disk encryption enabled using either PMK or CMK.
 {: .prompt-info }
 
-### Prepare the CVM OS Capture
+### Prepare the CVM OS for Capture
 Once the customization of the Windows OS is complete, the next step is to Disable BitLocker, wait for the decryption to complete, and then run Sysprep.
 
 To disable BitLocker and check the decryption status of the OS disk, you can use the following commands in an elevated Command Prompt.
