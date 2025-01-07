@@ -21,21 +21,21 @@ The steps outlined below require that you have access to the Azure Subscriptions
 
 1. From the Azure Portal, Select __Virtual Machine__ and __Create New VM__ 
 
-2. On the Instance Detail page set __Security Type__ to __Standard__, and select a non-ACC VM SKU
+1. On the Instance Detail page set __Security Type__ to __Standard__, and select a non-ACC VM SKU
 
-![Instance-Detail-Page](/instance-detail-page.png)
+    ![Instance-Detail-Page](/instance-detail-page.png)
 
-3. On the Disks tab, set __Key Management__ to __Platform-managed Key__ and leave __Encryption at host__ unchecked 
+1. On the Disks tab, set __Key Management__ to __Platform-managed Key__ and leave __Encryption at host__ unchecked 
 
-![Disks-Tab](/disks-tab.png)
+    ![Disks-Tab](/disks-tab.png)
 
-4. Once the Custom Image VM has been deployed, connect to the machine and perform any customization tasks required.
+1. Once the Custom Image VM has been deployed, connect to the machine and perform any customization tasks required.
 
-5. When all customizations are complete, run Sysprep with __OOBE__, __Generalize__ and __Shutdown__ selected 
+1. When all customizations are complete, run Sysprep with __OOBE__, __Generalize__ and __Shutdown__ selected 
 
-![Sysprep-Dialog](/sysprep-dialog.png)
+    ![Sysprep-Dialog](/sysprep-dialog.png)
 
-6. Once Sysprep has completed, the VM is ready to be captured 
+1. Once Sysprep has completed, the VM is ready to be captured 
 
 ### Capture the Custom Image
 
