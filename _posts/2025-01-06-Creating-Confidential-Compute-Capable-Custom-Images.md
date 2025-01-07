@@ -31,9 +31,11 @@ The steps outlined below require that you have access to the Azure Subscriptions
 
 4. Once the Custom Image VM has been deployed, connect to the machine and perform any customization tasks required.
 
-5. When all customizations are complete, run SYSPREP with __OOBE__, __Generalize__ and __Shutdown__ selected 
+5. When all customizations are complete, run Sysprep with __OOBE__, __Generalize__ and __Shutdown__ selected 
 
-6. Once SYSPREP has completed, the VM is ready to be captured 
+![Sysprep-Dialog](/sysprep-dialog.png)
+
+6. Once Sysprep has completed, the VM is ready to be captured 
 
 ### Capture the Custom Image
 
@@ -68,7 +70,7 @@ New-AzImage -ImageName $imageName -ResourceGroupName $rgNameCustImg -Image $imag
 ### Importing the Custom Image into Azure Compute Gallery
 
 #### Azure Portal
-In the Azure Compute Gallery create a new Image Definition, with the Security Type set to “Trusted launch and confidential VM supported”
+In the Azure Compute Gallery create a new Image Definition, with the Security Type set to __Trusted launch and confidential VM supported__
 
 On the next page select the Managed Image Resource to import to the Compute Gallery for the Image Definition 
 
