@@ -4,7 +4,7 @@
   <id>https://cocallaw.com/</id>
   <title>cocallaw</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-02T11:14:09-04:00</updated>
+  <updated>2025-05-02T11:29:30-04:00</updated>
   <author>
     <name>Corey Callaway</name>
     <uri>https://cocallaw.com/</uri>
@@ -17,64 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Export BitLocker Keys from Entra with GraphPowerShell</title>
-    <link href="https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/" rel="alternate" type="text/html" title="Export BitLocker Keys from Entra with GraphPowerShell" />
-    <published>2025-05-01T13:00:00-04:00</published>
-  
-    <updated>2025-05-01T13:00:00-04:00</updated>
-  
-    <id>https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/</id>
-    <content src="https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/" />
-    <author>
-      <name>CLC</name>
-    </author>
-
-  
-    
-    <category term="PowerShell" />
-    
-    <category term="Azure" />
-    
-    <category term="Microsoft Graph" />
-    
-  
-
-  <summary>How to retrieve BitLocker recovery keys from Entra using PowerShell and Microsoft Graph.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Automating Container Builds with GitHub Actions for Upstream Changes</title>
-    <link href="https://cocallaw.com/posts/Automating-Container-Builds-for-Upstream-Changes/" rel="alternate" type="text/html" title="Automating Container Builds with GitHub Actions for Upstream Changes" />
-    <published>2025-05-01T13:00:00-04:00</published>
-  
-    <updated>2025-05-01T13:00:00-04:00</updated>
-  
-    <id>https://cocallaw.com/posts/Automating-Container-Builds-for-Upstream-Changes/</id>
-    <content src="https://cocallaw.com/posts/Automating-Container-Builds-for-Upstream-Changes/" />
-    <author>
-      <name>CLC</name>
-    </author>
-
-  
-    
-    <category term="GitHub Actions" />
-    
-    <category term="Docker" />
-    
-    <category term="Automation" />
-    
-    <category term="DevOps" />
-    
-  
-
-  <summary>Automating container builds with GitHub Actions when the upstream image changes.</summary>
-
-  </entry>
 
   
   <entry>
