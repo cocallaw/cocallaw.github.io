@@ -4,7 +4,7 @@
   <id>https://cocallaw.com/</id>
   <title>cocallaw</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-09T09:52:15-04:00</updated>
+  <updated>2025-05-12T06:01:34-04:00</updated>
   <author>
     <name>Corey Callaway</name>
     <uri>https://cocallaw.com/</uri>
@@ -17,6 +17,34 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Export BitLocker Keys from Entra with Graph PowerShell</title>
+    <link href="https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/" rel="alternate" type="text/html" title="Export BitLocker Keys from Entra with Graph PowerShell" />
+    <published>2025-05-12T06:00:00-04:00</published>
+  
+    <updated>2025-05-12T06:00:00-04:00</updated>
+  
+    <id>https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/</id>
+    <content src="https://cocallaw.com/posts/Export-Bitlocker-Keys-from-Entra/" />
+    <author>
+      <name>CLC</name>
+    </author>
+
+  
+    
+    <category term="PowerShell" />
+    
+    <category term="Azure" />
+    
+    <category term="Microsoft Graph" />
+    
+  
+
+  <summary>How to retrieve BitLocker recovery keys from Entra using PowerShell and Microsoft Graph.</summary>
+
+  </entry>
 
   
   <entry>
