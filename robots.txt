@@ -1,1 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
 Sitemap: https://cocallaw.com/sitemap.xml
