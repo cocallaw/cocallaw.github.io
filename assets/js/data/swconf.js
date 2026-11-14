@@ -1,1 +1,1 @@
-const swconf = { cacheName: 'chirpy-1794346644', precacheUrls: [ '/assets/css/jekyll-theme-chirpy.css', '/', '/categories/', '/tags/', '/archives/', '/about/', ], denyUrls: ["giscus\\.app","\\.cloudflareinsights\\.com"], purge: false };
+const swconf = { cacheName: 'chirpy-1794622092', precacheUrls: [ '/assets/css/jekyll-theme-chirpy.css', '/', '/categories/', '/tags/', '/archives/', '/about/', ], denyUrls: ["giscus\\.app","\\.cloudflareinsights\\.com"], purge: false };
